@@ -1,7 +1,7 @@
 
 # DOES GRAPH PROMPT WORK? A DATA OPERATION PERSPECTIVE WITH THEORETICAL ANALYSIS
 
-> 📝 Under review for ICLR 2025
+> 📝 Under review for ICML 2025
 
 ## 🔬 Anonymous Code Repository
 
