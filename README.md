@@ -23,7 +23,7 @@ my_experiment(experiment_type='your_chosen_experiment', param1=value1, param2=va
 
 ### 📖 Open Discussion to Our Work
 
-Here we provide additional discussions and clarifications based on valuable feedback from the reviewers. These elaborations aim to enhance the practical relevance of our theoretical work, justify the assumptions made in our theorems, and illustrate the connection between our theoretical framework and real-world applications.
+Here we provide additional discussions and clarifications. These elaborations aim to enhance the practical relevance of our theoretical work, justify the assumptions made in our theorems, and illustrate the connection between our theoretical framework and real-world applications.
 
 #### 1.1 Practical Impact of Our Theoretical Results
 
@@ -113,4 +113,4 @@ These additional discussions enhance the practical relevance of our paper by:
 - **Justifying Theoretical:** Reinforcing the validity of our assumptions with empirical observations and mathematical justification.
 - **Paving the Way for Future Research:** Highlighting potential applications and encouraging further exploration in the field of graph prompting.
 
-We believe that these elaborations address the reviewers’ concerns and contribute to a better understanding of the importance and applicability of our research. We are committed to further linking our theoretical findings with practical applications and encouraging future researchers to build upon this foundation.
+We believe that these elaborations contribute to a better understanding of the importance and applicability of our research. We are committed to further linking our theoretical findings with practical applications and encouraging future researchers to build upon this foundation.
