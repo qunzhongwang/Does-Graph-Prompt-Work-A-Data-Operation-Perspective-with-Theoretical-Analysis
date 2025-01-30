@@ -110,4 +110,7 @@ By grounding our theoretical findings in these practical contexts, we aim to bri
 These additional discussions enhance the practical relevance of our paper by:
 
 - **Providing Actionable Insights:** Offering guidance derived from our theoretical results that can be directly applied in real-world settings.
-- **Justifying Theoretical
+- **Justifying Theoretical:** Reinforcing the validity of our assumptions with empirical observations and mathematical justification.
+- **Paving the Way for Future Research:** Highlighting potential applications and encouraging further exploration in the field of graph prompting.
+
+We believe that these elaborations address the reviewers’ concerns and contribute to a better understanding of the importance and applicability of our research. We are committed to further linking our theoretical findings with practical applications and encouraging future researchers to build upon this foundation.
