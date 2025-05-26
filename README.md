@@ -1,15 +1,11 @@
 
 # DOES GRAPH PROMPT WORK? A DATA OPERATION PERSPECTIVE WITH THEORETICAL ANALYSIS
 
-> 📝 Under review for ICML 2025
+> 📝 Published at ICML 2025
 
-## 🔬 Anonymous Code Repository
+## 🔬 Code Repository
 
 Welcome to the official code repository for our paper. This repository contains model configurations and experimental setups to provide readers with a clear understanding of our research methodology.
-
-### ⚠️ Important Notice
-
-**Current reviewers:** Please note that downloading or using this code for any non-academic purpose is prohibited at this time. We plan to refine the codebase and release a formal Python package upon acceptance of the paper.
 
 ### 🚀 Getting Started
 
